@@ -10,7 +10,6 @@ html {
     box-sizing: border-box;
     font-family: sans-serif;
     color: var(--dark);
-
     width: 1024px;
     margin: auto;
 }
